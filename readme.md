@@ -11,22 +11,22 @@
     dalam java ada beberapa tipe integer itu sendiri :
 
 1. byte
-Tipe data byte ini merupakan tipe data bilang bulat atau integer dengan range nilai paling kecil yakni hanya 8 bit atau sebanyak 256 kemungkinan nilai. (lebih detail ada dalam slide).
+    Tipe data byte ini merupakan tipe data bilang bulat atau integer dengan range nilai paling kecil yakni hanya 8 bit atau sebanyak 256 kemungkinan nilai. (lebih detail ada dalam slide).
 ``` java
     byte num = 10;
 ```
 2. short 
-Tipe data short ini merupakan tipe data bilang bulat atau integer dengan kapasitas 16 bit. (lebih detail ada dalam slide).  
+    Tipe data short ini merupakan tipe data bilang bulat atau integer dengan kapasitas 16 bit. (lebih detail ada dalam slide).  
 ``` java
     short num = 10;
 ```
 3. int
-Tipe data int ini merupakan tipe data bilang bulat atau integer dengan kapasitas 32 bit. (lebih detail ada dalam slide).
+    Tipe data int ini merupakan tipe data bilang bulat atau integer dengan kapasitas 32 bit. (lebih detail ada dalam slide).
 ``` java
     int num = 10;
 ```
 4. long
-Tipe data int ini merupakan tipe data bilang bulat atau integer paling besar dengan kapasitas 64 bit. (lebih detail ada dalam slide).
+    Tipe data int ini merupakan tipe data bilang bulat atau integer paling besar dengan kapasitas 64 bit. (lebih detail ada dalam slide).
 ``` java
     long num = 10;
 ```
