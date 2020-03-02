@@ -77,6 +77,7 @@ Tipe data floating point
 
 <br>
 <br>
+
 ## Operator
     Seperti dalam matematika, operator dalam pemrograman merupakan simbol atau tanda yang jika diletakan diantara dua buah data, akan menghasilkan sebuah hasil.
 
